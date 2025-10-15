@@ -8,7 +8,7 @@
     "test": "test"
   },
   "devDependencies": {
-    "@babel/core": "^7.25.8",
+    "@babel/core": "^7.28.4",
     "@babel/preset-env": "^7.25.8",
     "@babel/register": "^7.25.7",
     "babelify": "^10.0.0",
