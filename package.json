@@ -19,7 +19,7 @@
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.6.0",
+    "eslint-plugin-promise": "^7.2.1",
     "jsdom": "^25.0.1",
     "mocha": "^10.7.3",
     "terser": "^5.36.0",
